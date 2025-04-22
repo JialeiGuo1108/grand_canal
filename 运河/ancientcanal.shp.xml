@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20220604</CreaDate><CreaTime>18595000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20220604" Time="185950">JSONToFeatures E:\ancientcanal.json C:\Users\21785\Desktop\班长\ancientcanal.shp</Process></lineage></DataProperties></Esri></metadata>
